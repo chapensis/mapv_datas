@@ -1,1 +1,1 @@
-{"default":{"layers":{"igvz6hltt6amr":{"options":{"type":"heatmap","option":{"size":"500","max":"100","maxOpacity":"0.8","type":"rect","igvz6hltt6amr":"确定"},"layerName":"igvz6hltt6amr"},"data":"data/igvz6hltt6amr","sha":"1b757aaf255a1c150def217e4314bdb605d55692"}}}}
+{"default":{"layers":{"igvz6hltt6amr":{"options":{"type":"category","option":{"size":"2","igvz6hltt6amr":"确定"},"layerName":"igvz6hltt6amr"},"data":"data/igvz6hltt6amr","sha":"1b757aaf255a1c150def217e4314bdb605d55692"}}}}
